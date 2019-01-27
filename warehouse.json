@@ -1,0 +1,44 @@
+{
+  "0001" : {
+    "name" : "CHD 2050",
+    "extra" : "Naudas lāde 25.00€ ar PVN",
+    "cost" : 229.00,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/3.jpeg"
+  },
+  "0002" : {
+    "name" : "CHD 3050U",
+    "extra" : "Naudas lāde lielā 35.00€ ar PVN",
+    "cost" : 309.00,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/3.jpeg"
+  },
+  "0003" : {
+    "name" : "CHD 3850",
+    "extra" : "Pērkot kases aparātu naudas lāde komplektā",
+    "cost" : 483.00,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/3.jpeg"
+  },
+  "0004" : {
+    "name" : "Ford Focus",
+    "year" : 2016,
+    "cost" : 35000,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/1.jpeg"
+  },
+  "0005" : {
+    "name" : "Ford Focus",
+    "year" : 2016,
+    "cost" : 15000,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/1.jpeg"
+  },
+  "0006" : {
+    "name" : "Ford Focus",
+    "year" : 2016,
+    "cost" : 25000,
+    "description" : "The performance and design will inspire a feeling of confidence when driving the 2018.",
+    "image" : "images/1.jpeg"
+  }
+}
